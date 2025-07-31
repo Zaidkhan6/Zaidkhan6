@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Hi 👋, I'm Zaid Khan</h1>
+  <h1>I'm Zaid Khan</h1>
   <strong>Backend Java Developer | Test Automation Engineer | Quality Advocate</strong>
 </p>
 
